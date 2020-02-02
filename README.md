@@ -3,16 +3,16 @@ Bounty dApp - Simple implementation of Bounty Decentralisation in Blockchain
 
 Version 0.1.0
 
-#### 0. How to setup my project 
+#### [0. How to setup my project](#how-to-setup-my project)  
 #### [1. Description](#this-is-a-description)
-#### 2.  [Function List]
-#### 3.  [User Specification]
-#### 4.  [Testing]
-#### 5.  [Design Pattern Requirements]
-#### 7.  [Avoiding Common Attacks]
-#### 8.  [Use a library or extend a contract]
-#### 9.  [Implement an upgradable design pattern]
-#### 10. [Write a smart contract in LLL or Vyper]
+#### [2. Function List](#function-list)
+#### [3. User Specification](#user-specification)
+#### [4. Testing](#testing)
+#### [5. Design Pattern Requirements](#design-pattern-requirements)
+#### [7. Avoiding Common Attacks](#avoiding-common-attacks)
+#### [8. Use a library or extend a contract](#use-a-library-or-extend-a-contract)
+#### [9. Implement an upgradable design pattern](#implement-an-upgrable-design-pattern)
+#### [10. Write a smart contract in LLL or Vyper](#write-a-smart-contract-in-LLL-or-Viper)
 
 [1] [Description]
 This dApp would help you to run a smart contract which allows anyone to create a bounty, and any valid hunter to submit a solution. If the Bounty creator gets a valid solution, he will accept it. He even has the option to reject a solution, along with a comment for the hunter to know what he can do, or how to improve. Then the bounty hunter can link his previous solution, if he wants, along with submitting a updated solution.
