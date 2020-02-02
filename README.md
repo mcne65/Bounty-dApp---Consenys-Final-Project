@@ -3,10 +3,10 @@ Bounty dApp - Simple implementation of Bounty Decentralisation in Blockchain
 
 Version 0.1.0
 
-#### [1. How to setup my project](#how-to-setup-my-project)  
-#### [2. Description](#this-is-a-description)
-#### [3. Function List](#function-list)
-#### [4. User Specification](#user-specification)
+#### 1. [How to setup my project](#how-to-setup-my-project)  
+#### 2. [Description](#this-is-a-description)
+#### 3. [Function List](#function-list)
+#### 4. [User Specification](#user-specification)
 #### [5. Testing](#testing)
 #### [6. Design Pattern Requirements](#design-pattern-requirements)
 #### [7. Avoiding Common Attacks](#avoiding-common-attacks)
