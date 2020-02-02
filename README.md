@@ -3,7 +3,7 @@ Bounty dApp - Simple implementation of Bounty Decentralisation in Blockchain
 
 Version 0.1.0
 
-#### 1. [Description] (#description)
+#### 1. [https://github.com/mcne65/Bounty-dApp---Consenys-Final-Project/1] (#description)
 #### 2. [Function List]
 #### 3. [User Specification]
 #### 4. [Implementation]
