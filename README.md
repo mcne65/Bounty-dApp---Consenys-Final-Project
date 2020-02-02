@@ -312,8 +312,8 @@ Contract: Stoppable
     ✓ Should correctly emit the proper event: LogPausedContract (51ms)
     ✓ Should correctly emit the proper event: LogResumedContract (86ms)
     ✓ Should correctly emit the proper event: LogStoppedContract (84ms)
-Note
+
+##Note
 This is a prototype, please don't use it unless you know what you are doing.
 A lot can be improved in this. Feedbacks are welcome.
 Don't forget to unlock ether wallet accounts when required.
-Thank You for checking out! Star if this helped you in anyway!
