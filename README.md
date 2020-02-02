@@ -7,17 +7,17 @@ Version 0.1.0
 #### 2. [Description](#this-is-a-description)
 #### 3. [Function List](#function-list)
 #### 4. [User Specification](#user-specification)
-#### [5. Testing](#testing)
-#### [6. Design Pattern Requirements](#design-pattern-requirements)
-#### [7. Avoiding Common Attacks](#avoiding-common-attacks)
-#### [8. Use a library or extend a contract](#use-a-library-or-extend-a-contract)
-#### [9. Implement an upgradable design pattern](#implement-an-upgrable-design-pattern)
-#### [10. Write a smart contract in LLL or Vyper](#write-a-smart-contract-in-LLL-or-Viper)
+#### 5. [Testing](#testing)
+#### 6. [Design Pattern Requirements](#design-pattern-requirements)
+#### 7. [Avoiding Common Attacks](#avoiding-common-attacks)
+#### 8. [Use a library or extend a contract](#use-a-library-or-extend-a-contract)
+#### 9. [Implement an upgradable design pattern](#implement-an-upgrable-design-pattern)
+#### 10.[Write a smart contract in LLL or Vyper](#write-a-smart-contract-in-LLL-or-Viper)
 
-[1. How to setup My Project](#how-to-setup-my-project)
+1. [How to setup My Project](#how-to-setup-my-project)
 
 
-[2. Description](#description)
+2. [Description](#description)
 This dApp would help you to run a smart contract which allows anyone to create a bounty, and any valid hunter to submit a solution. If the Bounty creator gets a valid solution, he will accept it. He even has the option to reject a solution, along with a comment for the hunter to know what he can do, or how to improve. Then the bounty hunter can link his previous solution, if he wants, along with submitting a updated solution.
 
 If there comes a situation, where there is a dispute, it could be solved by the resolvers, which would be added by the contract owner at any time. The decision of resolvers would be final. A bounty creator can also close his bounty, after deadline passes, if he doesn't get any valid result. A bounty creator who closed the bounty, or a bounty hunter who won a bounty can withdraw their winning as well.
