@@ -10,8 +10,8 @@
 #### 7. [Avoiding Common Attacks](#avoiding-common-attacks)
 #### 8. [Use a library or extend a contract](#use-a-library-or-extend-a-contract)
 #### 9. [Implement an upgradable design pattern](#implement-an-upgrable-design-pattern)
-#### 10.[Write a smart contract in LLL or Vyper](#write-a-smart-contract-in-LLL-or-Viper)
-#### 11.[Notes](#notes)
+#### 10. [Write a smart contract in LLL or Vyper](#write-a-smart-contract-in-LLL-or-Viper)
+#### 11. [Notes](#notes)
 
 1. [How to setup My Project](#how-to-setup-my-project)
 
