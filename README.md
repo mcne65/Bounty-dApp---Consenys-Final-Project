@@ -78,12 +78,10 @@ Create a separate storage contract.
 How to Run the Project
 Create a new folder
 
-Copy the Git Clone URL from GitHub: https://github.com/remedcu/Bounty-dApp.git
-
-git clone https://github.com/remedcu/Bounty-dApp.git
+## Copy the Git Clone URL from GitHub: 
+## git clone https://github.com/mcne65/Bounty-dApp---Consenys-Final-Project
 
 Clone the Repository
-
 In a command line, inside the Bounty-dApp folder write npm i or npm install
 
 Copy the .dotenv file and paste it in the Bounty-dApp file as .env (Edit the values only if deemed necessary)
