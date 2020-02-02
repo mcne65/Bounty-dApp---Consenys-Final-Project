@@ -3,7 +3,7 @@ Bounty dApp - Simple implementation of Bounty Decentralisation in Blockchain
 
 Version 0.1.0
 
-#### 1. [Features]
+#### 1. [Description]
 #### 2. [Setup]
 #### 3. [Interaction]
 #### 4. [Implementation]
@@ -14,7 +14,7 @@ Version 0.1.0
 #### 9. [Rinkeby Test Network, IPFS and ENS]
 #### 10. [Contact]
 
-Description
+[Description]
 This dApp would help you to run a smart contract which allows anyone to create a bounty, and any valid hunter to submit a solution. If the Bounty creator gets a valid solution, he will accept it. He even has the option to reject a solution, along with a comment for the hunter to know what he can do, or how to improve. Then the bounty hunter can link his previous solution, if he wants, along with submitting a updated solution.
 
 If there comes a situation, where there is a dispute, it could be solved by the resolvers, which would be added by the contract owner at any time. The decision of resolvers would be final. A bounty creator can also close his bounty, after deadline passes, if he doesn't get any valid result. A bounty creator who closed the bounty, or a bounty hunter who won a bounty can withdraw their winning as well.
