@@ -1,4 +1,4 @@
-# Bounty-dApp---Consenys-Final-Project
+# Bounty-dApp-Consensys-Final-Project
 Bounty dApp - Simple implementation of Bounty Decentralisation in Blockchain
 
 Version 0.1.0
