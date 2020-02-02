@@ -1,5 +1,18 @@
 # Bounty-dApp---Consenys-Final-Project
-Bounty dApp - Simple implementation of Bounty System in Blockchain
+Bounty dApp - Simple implementation of Bounty Decentralisation in Blockchain
+
+Version 0.1.0
+
+1. Features
+2. Setup
+3. Interaction
+4. Implementation
+5. Tests
+6. Design Pattern Desicions
+7. Avoiding Common Attacks
+8. Library/Contracts Imported
+9. Rinkeby Test Network, IPFS and ENS
+10. Contact
 
 Description
 This dApp would help you to run a smart contract which allows anyone to create a bounty, and any valid hunter to submit a solution. If the Bounty creator gets a valid solution, he will accept it. He even has the option to reject a solution, along with a comment for the hunter to know what he can do, or how to improve. Then the bounty hunter can link his previous solution, if he wants, along with submitting a updated solution.
