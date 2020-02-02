@@ -4,8 +4,8 @@ Bounty dApp - Simple implementation of Bounty Decentralisation in Blockchain
 Version 0.1.0
 
 #### 1. [Description]
-#### 2. [Setup]
-#### 3. [Interaction]
+#### 2. [Function List]
+#### 3. [User Specification]
 #### 4. [Implementation]
 #### 5. [Tests]
 #### 6. [Design Pattern Desicions]
@@ -19,7 +19,7 @@ This dApp would help you to run a smart contract which allows anyone to create a
 
 If there comes a situation, where there is a dispute, it could be solved by the resolvers, which would be added by the contract owner at any time. The decision of resolvers would be final. A bounty creator can also close his bounty, after deadline passes, if he doesn't get any valid result. A bounty creator who closed the bounty, or a bounty hunter who won a bounty can withdraw their winning as well.
 
-Function List
+[Function List]
 addResolver : This function helps to add a new resolver. Takes the address of the resolver and adds it to the resolver array.
 updateResolver : This function helps to update a resolver status. Takes the address of the resolver and updates it's status along with majority and noOfResolvers.
 createBountyID : This function helps to create a unique bounty ID. Takes no inputs and returns unique bountyID recently created.
@@ -37,7 +37,8 @@ raiseDispute : This function helps to raise a dispute for a solution which was r
 solveDispute : This function helps to check a dispute on solution raised by a hunter which was rejected. For the dispute to be solved a majority is formed from approved resolvers.
 closeBounty : This function helps to close a bounty without accepting any solution. Could be called by bounty maker to close it without a solution or internal call from acceptSolution function.
 withdraw : This function helps to withdraw money from the contract. Only people with balance not tied to any bounty will be able to withdraw.
-User Specification
+
+[User Specification]
 Bounty Owner can :
 
 Add new resolvers
