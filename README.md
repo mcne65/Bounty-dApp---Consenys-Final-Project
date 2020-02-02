@@ -1,4 +1,4 @@
-___#My Bounty dApp Project___
+# ___My Bounty dApp Project___
 ## Simple implementation of Bounty Decentralisation in Blockchain
 
 #### 1. [How to setup my project](#how-to-setup-my-project)  
