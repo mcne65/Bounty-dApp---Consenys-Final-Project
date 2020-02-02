@@ -16,11 +16,13 @@ Version 0.1.0
 
 [1. How to setup My Project](#how-to-setup-my-project)
 
+
+[2. Description](#description)
 This dApp would help you to run a smart contract which allows anyone to create a bounty, and any valid hunter to submit a solution. If the Bounty creator gets a valid solution, he will accept it. He even has the option to reject a solution, along with a comment for the hunter to know what he can do, or how to improve. Then the bounty hunter can link his previous solution, if he wants, along with submitting a updated solution.
 
 If there comes a situation, where there is a dispute, it could be solved by the resolvers, which would be added by the contract owner at any time. The decision of resolvers would be final. A bounty creator can also close his bounty, after deadline passes, if he doesn't get any valid result. A bounty creator who closed the bounty, or a bounty hunter who won a bounty can withdraw their winning as well.
 
-[2. Function List](#function-list) 
+[3. Function List](#function-list) 
 
 addResolver : This function helps to add a new resolver. Takes the address of the resolver and adds it to the resolver array.
 updateResolver : This function helps to update a resolver status. Takes the address of the resolver and updates it's status along with majority and noOfResolvers.
@@ -40,7 +42,7 @@ solveDispute : This function helps to check a dispute on solution raised by a hu
 closeBounty : This function helps to close a bounty without accepting any solution. Could be called by bounty maker to close it without a solution or internal call from acceptSolution function.
 withdraw : This function helps to withdraw money from the contract. Only people with balance not tied to any bounty will be able to withdraw.
 
-[User Specification](#user-specification)
+[4. User Specification](#user-specification)
 Bounty Owner can :
 
 Add new resolvers
