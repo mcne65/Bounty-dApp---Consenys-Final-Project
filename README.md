@@ -1,4 +1,4 @@
-__My Bounty dApp Project
+__My Bounty dApp Project__
 Bounty dApp - Simple implementation of Bounty Decentralisation in Blockchain
 
 Version 0.1.0
