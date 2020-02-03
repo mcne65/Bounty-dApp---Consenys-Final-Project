@@ -1,4 +1,4 @@
-# **Bounty dApp Project**
+# **Twitter Bounty dApp Project**
 ## ___Simple implementation of Bounty Decentralisation in Blockchain___
 
 #### 1. [How to setup my project](#how-to-setup-my-project)  
@@ -18,7 +18,7 @@
 
 2. [Description](#description)
 
-The dApp bounty made will make you able to run a smart contract freely meaning able to create a bounties and valid hunters to submit the solutions. When the Bounty creator gets a valid solution, this gets accepted and has the option to reject the solution with a comment for the hunter explaining why and where to improve. Only then can the bounty hunter link his previous solutions along with submitting a updated solution.
+The Twitter dApp bounty made will make you able to run a smart contract freely meaning able to create a bounties and valid hunters to submit the solutions. When the Bounty creator gets a valid solution, this gets accepted and has the option to reject the solution with a comment for the hunter explaining why and where to improve. Only then can the bounty hunter link his previous solutions along with submitting a updated solution.
 
 If there was a situation to occur that has a dispute, this problem will passed on to the resolvers who would be added by the contract owner and the decision of resolvers would be final. After the deadline, the bounty creator has the option to close his bounty, particularly if he doesn't get any valid results. In addition, the bounty creator who closed the bounty, or a bounty hunter who won a bounty can withdraw their winning as well.
 
