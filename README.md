@@ -1,7 +1,7 @@
 # ** Ethereum based Twitter Bounty dApp Project**
 ## ___Simple implementation of Bounty Decentralisation in Blockchain___
 
-#### 1. [How to setup my project](#how-to-setup-my-project)  
+#### 1. [Project Setup](#project-setup)  
 #### 2. [Description](#this-is-a-description)
 #### 3. [Function List](#function-list)
 #### 4. [User Specification](#user-specification)
@@ -13,8 +13,18 @@
 #### 10. [Write a smart contract in LLL or Vyper](#write-a-smart-contract-in-LLL-or-Viper)
 #### 11. [Notes](#notes)
 
-1. [How to setup My Project](#how-to-setup-my-project)
+1. [Project Setup](#project-setup)
 
+### You must install the Truffle framework and Ganache Cli as prerequisites
+
+To install Truffle:
+`npm install -g truffle`
+
+Install the Ganache CLI:
+`npm install -g ganache-cli`
+
+Install Lite Server
+`npm install -g lite-server`
 
 2. [Description](#description)
 
