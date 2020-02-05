@@ -18,13 +18,13 @@
 ### You must install the Truffle framework and Ganache Cli as prerequisites
 
 To install Truffle:
-`npm install -g truffle`
+<br>`npm install -g truffle`</br>
 
 Install the Ganache CLI:
-`npm install -g ganache-cli`
+<br>`npm install -g ganache-cli`</br>
 
 Install Lite Server
-`npm install -g lite-server`
+<br>`npm install -g lite-server`</br>
 
 2. [Description](#description)
 
