@@ -13,8 +13,7 @@
 #### 10. [Write a smart contract in LLL or Vyper](#write-a-smart-contract-in-LLL-or-Viper)
 #### 11. [Notes](#notes)
 
-<h1>1.[Project Setup]</h1>(#project-setup)
-
+1.[Project Setup](#project-setup)
 ### You must install the Truffle framework and Ganache Cli as prerequisites
 
 To install Truffle:
